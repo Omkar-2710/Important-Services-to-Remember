@@ -441,17 +441,3 @@ A typical investigation includes:
 | Common Threats | SQL Injection, XSS, Directory Traversal, Web Shell, Credential Stuffing, Brute Force |
 
 ---
-
-## Skills Demonstrated
-
-- HTTP & HTTPS Fundamentals
-- Web Security
-- Network Security
-- SOC Monitoring
-- Threat Detection
-- Incident Investigation
-- SIEM Analysis
-- MITRE ATT&CK
-- Blue Team Operations
-
----
